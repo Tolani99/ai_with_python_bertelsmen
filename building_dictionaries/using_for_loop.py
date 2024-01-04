@@ -1,6 +1,6 @@
 """
 creating a dictionary that keeps track of the total count
-of each word
+of each word using python for loop
 """
 
 book_title =  ['great', 'expectations','the', 'adventures', 'of', 'sherlock','holmes','the','great','gasby','hamlet','adventures','of','huckleberry','fin']
